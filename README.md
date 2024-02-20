@@ -18,10 +18,3 @@ Bu projede HTML, SCSS, Javascript teknolojileri kullanılmıştır.
 
 
 
-# authentication (kimlik dogrulama)
-
-- kullanıcının kımlıgını dogrulama asaması
-- kullanıcınısahip olduğu google hesabı veya eposta sıfre ile kımlıgını dogrulayabılrıız
-- # authorization (yetkilendirme)
-- kullanıcının kımlıgıne göre uygulama
-- içerisindeki erişimleri kısıtlama# Firebse-chat-Project
